@@ -1,0 +1,38 @@
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.RoundedPictureBox.resources
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.ResizedImageForm.resources
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.csproj.GenerateResource.cache
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.AssemblyInfoInputs.cache
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.AssemblyInfo.cs
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.csproj.CoreCompileInputs.cache
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.exe
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.deps.json
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.runtimeconfig.json
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.dll
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.pdb
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.dll
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\refint\ResizingApp.dll
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.pdb
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.genruntimeconfig.cache
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ref\ResizingApp.dll
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.Properties.Resources.resources
+C:\MY DOCS\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.app.resources
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.exe
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.deps.json
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.runtimeconfig.json
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.dll
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\bin\Debug\net8.0-windows\ResizingApp.pdb
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.RoundedPictureBox.resources
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.Properties.Resources.resources
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.ResizedImageForm.resources
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.app.resources
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.csproj.GenerateResource.cache
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.AssemblyInfoInputs.cache
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.AssemblyInfo.cs
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.csproj.CoreCompileInputs.cache
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.dll
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\refint\ResizingApp.dll
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.pdb
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ResizingApp.genruntimeconfig.cache
+D:\MY DOCS\2nd Year - 2nd semester\DataStructure CODES+ Desktop App\Desketop App\ResizingApp\ResizingApp\obj\Debug\net8.0-windows\ref\ResizingApp.dll
